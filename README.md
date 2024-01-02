@@ -6,7 +6,8 @@ The following will be a guide for anyone who is interested to get started in hac
 
 Note: I might be wrong, but I won't be sharing any specific resource for any concept. Because I believe, if doing a specific defined course, and certification will keep someone at top of the game, then everyone will be successfull and world is full of talented people. You become great at stuff by trying really hard on your own, not because someone said you should be.
 
-# Target Audience
+# Target Audience and Requirements
+0. Anyone who has knack to solve problems, explore new field, any student
 1. **PERSISTENT Learner**: In my opinion, this is the only quality needed to learn anything. You need to be a continuous learner, however the learning curve for the first one or two years will be very steep. If you can't ride these initial hard years and be persistent, sadly chances of being successful are very less.
 2. **Degree**: You don't need any kind of degree. If you can read that is good enough. I don't think not knowing English very well would be any problem, there are very good translators which can help.
 3. **Resources**: Anyone with basic configuration laptop and Internet.
@@ -23,7 +24,7 @@ Bottom line: Figure out what you're good at, play to your strengths, and own you
 
 Opening a beer bottle using your teeth is an unusual or unintended way to solve the problem of opening the beer bottle. In hindi there is a word for this *Jugaad*, which means coming up with clever and quick solutions using whatever you have around to solve a problem. Similarly in computer science hacking, someone who has a deep understanding of computer systems and networks and is able to use this knowledge to make software or hardware to work in unexpected ways either for problem solving, or achieving specific goals.
 
-For example, increasing likes or views in instagram post is a hack. Asking the question needs curiosity, to confirm if it is possible at all needs technical understanding and knowledge of how an web application works. Once you have technical understanding, exploring various way to increase likes needs creativity. The curiosity and creativity can be acquired through experience. To acquire technical understanding we need to know about computers, and network system. I will share few resources where you can acquire this below.
+For example, increasing likes or views in instagram post is a hack. Asking the question needs curiosity, to confirm if it is possible at all needs technical understanding and knowledge of how an web application works. Once you have technical understanding, exploring various way to increase likes needs creativity. The curiosity and creativity can be acquired through experience. To acquire technical understanding we need to know about computers, and network system. I will share my thoughts on how to acquire this.
 
 # Computer Science Degree?
 
