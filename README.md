@@ -154,7 +154,7 @@ During the CTFs and bug bounties I made so many friends, I asked my research mat
 
 If you think there is so much competition in information security field, you are absolutely wrong. There are very less high skilled people in my opinion. So, try hard until you reach a level where people don't consider looking at resumes or degrees or certifications. Just by looking at your previous work they will hire you.
 
-Not any company, just show me your CTF writeups, research and experience. I will hire you and pay you around 50 - 1 Crore salary. If you don't believe if I say, that there is one Indian in my company because I couldn't find one all of them are top CTF players from other countries.
+Not any company, just show me your CTF writeups, research and experience. I will hire you and pay you around 50 - 1 Crore salary. If you don't believe if I say, that there no Indian in our company because I couldn't find one, all of them are top CTF players from other countries. Not saying that there are no pro hackers in India, they are many who are working for all the other high paying companies. At this moment, I couldn't find one who I think are at the level of people who are currently working for our company.
 
 # Final Thoughts
 
