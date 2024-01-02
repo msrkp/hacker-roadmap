@@ -120,7 +120,8 @@ Bottom line
 Resources which I used in my journey of learning web exploitation
 - https://www.amazon.com/The-Web-Application-Hackers-Handbook/dp/1118026470
 - I took other CTFers as an inspiration, and duplicated whatever they did, solving all the challenges they previously worked on, reading all their previous writeups. I read almost all the blogs of the people I listed as inspiration here https://blog.s1r1us.ninja/inspiration
-- https://doc.lagout.org/security/Web%20Application%20Obfuscation/Web%20Application%20Obfuscation.pdf
+- https://www.oreilly.com/library/view/web-application-obfuscation/9781597496049/
+- https://portswigger.net/research
 
 # Research and Bug Hunting( Bug Bounties )
 
