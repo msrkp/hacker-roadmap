@@ -4,6 +4,7 @@ The following will be a guide for anyone who is interested to get started in hac
 
 "I can only show you the door. You're the one that has to walk through it." - Morpheus, The Matrix. I'm giving you the map, but you've got to steer the journey. Success depends on your effort and choices.
 
+Note: I might be wrong, but I won't be sharing any specific resource for any concept. Because I believe, if doing a specific defined course, and certification will keep someone at top of the game, then everyone will be successfull and world is full of talented people. You become great at stuff by trying really hard on your own, not because someone said you should be.
 
 # Target Audience
 1. **PERSISTENT Learner**: In my opinion, this is the only quality needed to learn anything. You need to be a continuous learner, however the learning curve for the first one or two years will be very steep. If you can't ride these initial hard years and be persistent, sadly chances of being successful are very less.
