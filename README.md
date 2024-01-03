@@ -1,32 +1,32 @@
 # Becoming a Hacker: My Journey to Become Security Enthusiasts or Hacker and How You Could Become Like One 
 
-The following will be a guide for anyone interested in getting started in hacking or infosec. All the below content is based on the assumption that the reader doesn't know anything about computer/hacking.
+The following will guide anyone interested in getting started in hacking or infosec. All the below content is based on the assumption that the reader doesn't know anything about computer/hacking.
 
 "I can only show you the door. You're the one that has to walk through it." - Morpheus, The Matrix. I'm giving you the map, but you've got to steer the journey. Success depends on your effort and choices.
 
-Note: I might be wrong, but I won't be sharing any specific resource for any concept. I believe if doing a specific defined course, and certification will keep someone at the top of the game, then everyone will be successful and the world is full of talented people. You become great at stuff by trying hard on your own, not because someone said you should be.
+Note: I might be wrong, but I won't be sharing any specific resource for any concept. I believe if doing a specific defined course, and certification will keep someone at the top of the game, then everyone will be successful and the world is full of talented people. You become great at stuff by trying hard on your own, not because someone said you should be. Rather than providing direct links or resources, I prefer to take you through my journey. This way, you can relate to it as you embark on your own path
 
 
 # Who Am I: 
-Never take opinions and advices from a random guy on the internet. Social media is full of fake influencers and content creators, it is always a good idea to research to see if the guy is legit. Here is a summary of my profile.
+Never take opinions and advice from a random guy on the internet. Social media is full of fake influencers and content creators, it is always a good idea to research to see if the guy is legit. Here is a summary of my profile.
 
 * **Mohan Sri Rama Krishna Pedhapati** aka *s1r1us*
     * Founder of Electrovolt Infosec
         * Indian-based Pentesting & Security Consulting Firm
         * 10 highly specialized security researchers from all over the world
-        * Partner of Cure53, a world class security firm
+        * Partner of Cure53, a world-class security firm
     * Senior Application Security Auditor at Cure53, Berlin (One of the 20 highly specialized consultants)
     * Blockchain Security Hobbyist at OtterSec, USA
     * Captain of CTF Team Invaders from RGUKTN, and plays with zer0pts
     * Research Topics and Highlights:
         * Browser and Web Security in general
         * Specializes in Client Side Security
-        * 2020 – Speaker of BountyCon Facebook on topic Tangled Browsers 
+        * 2020 – Speaker of BountyCon Facebook on the topic Tangled Browsers 
         * 2021 – 4th Place of Top 10 Web Hacking Techniques for Prototype Pollution Research.
             * Presented Research at BSides Ahmedabad Conference
         * 2022 – Research on Electron Applications
-            * Found RCE in Most of the Electron Based Application: Discord, VSCode, Teams
-            * Published Research in Defcon USA, Blackhat USA, Nullcon Goa Conferences
+            * Found RCE in Most of the Electron Based Applications: Discord, VSCode, Teams
+            * Published Research in Defcon USA, Blackhat USA, and Nullcon Goa Conferences
             * Research featured in vice.com
     * Email: l33tsirius@gmail.com
     * Blog where I publish any interesting research:
@@ -36,7 +36,7 @@ Never take opinions and advices from a random guy on the internet. Social media 
 
 
 # Target Audience and Requirements
-0. Anyone who has a knack for solving problems, explore new fields, any student
+0. Anyone who has a knack for solving problems, exploring new fields, any student
 1. **PERSISTENT Learner**: In my opinion, this is the only quality needed to learn anything. You need to be a continuous learner, however, the learning curve for the first one or two years will be very steep. If you can't ride these initial hard years and be persistent, sadly chances of being successful are very low.
 2. **Degree**: You don't need any kind of degree. If you can read that is good enough. I don't think not knowing English very well would be a problem, there are very good online translations that can help.
 3. **Resources**: Anyone with a basic configuration laptop and Internet.
