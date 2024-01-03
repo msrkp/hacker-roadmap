@@ -1,4 +1,4 @@
-# Becoming a Hacker: My Journey to Become Security Enthusiasts or Hacker and How You Could Become Like One 
+# Becoming a Hacker: A Personal Narrative and a Roadmap
 
 The following will guide anyone interested in getting started in hacking or infosec. All the below content is based on the assumption that the reader doesn't know anything about computer/hacking.
 
@@ -8,9 +8,10 @@ Note: I might be wrong, but I won't be sharing any specific resource for any con
 
 
 # Who Am I: 
-Never take opinions and advice from a random guy on the internet. Social media is full of fake influencers and content creators, it is always a good idea to research to see if the guy is legit. Here is a summary of my profile.
+Never take opinions and advice from a random guy on the internet. Social media is full of fake influencers and content creators, it is always a good idea to research to see if the guy is legit. In a world where anyone can pose as an expert, I advocate for a cautious approach. Here is a summary of my profile.
 
 * **Mohan Sri Rama Krishna Pedhapati** aka *s1r1us*
+    * B. Tech Computer Science from RGUKT Nuzvid (APIIIT)
     * Founder of Electrovolt Infosec
         * Indian-based Pentesting & Security Consulting Firm
         * 10 highly specialized security researchers from all over the world
