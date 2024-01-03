@@ -147,6 +147,7 @@ At this point, you learned
 - Participated in CTFs
 - Find some interesting bugs in real-world application
 - Wrote blogs and published very good research
+- Made connections in meetups, on-site CTFs and conferences
 
 You can either continue earning via bug bounties and research like few people who do full-time bug hunting. Or join a company like I did by using the blogs as leverage. 
 
